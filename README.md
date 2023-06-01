@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ColoreFreddo.
 - 👀 I’m interested in learning to code and improve in networking projects.
 - 🌱 I’m currently learning ICT Security and Networking.
-- 💞️ I’m looking to collaborate on opensource projects related to linux (maybe one day when i'll be ready).
+- 💞️ I’m looking to collaborate on opensource projects related to IT Security.
 - 📫 How to reach me: mail ---> daniel.viola.apple@icloud.com, discord ---> ColoreFreddo#0973.
 
 <!---
